@@ -11,7 +11,7 @@ A simple Python command-line tool to track personal expenses with CSV storage.
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/amirmohammedi/expense-tracker.git
+   git clone https://github.com/AmirMohammedi/expense-tracker-cli.git
    cd expense-tracker
    ```
 2. Run the script:
